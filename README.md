@@ -18,7 +18,7 @@
 * Дизайн-студия имени Слишком Известного Персонажа
 
 '''.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
+*  font-family: "Awesome", Arial, sans-serif;
+*  color: red;
 };
 '''
